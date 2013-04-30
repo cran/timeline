@@ -1,0 +1,16 @@
+05b9cd79d0d32e54f1a0e7531095cb24 *DESCRIPTION
+a347629c2ff993b5ef722b4450152d05 *NAMESPACE
+5e698e02f44c7945d6d5d30cf785aa99 *NEWS
+449f9921d9eec3291a3846aaa8a32692 *R/timeline-package.R
+e760fcf1e76a3053fb133d1ed13a5e33 *R/timeline.R
+479ddfbad0c1612f9938378a94deeb59 *R/timelineShinyDemo.R
+a745849675c616028945ea8ae44254da *data/ww2.rda
+fe35e56880642d7933d063319afc64e4 *demo/00Index
+da0bd788697973d3058c1f71cfb9ba8b *demo/ww2.R
+2e228e2787b0c897e73fbb97d5076e1c *inst/shiny/server.R
+d50b87701e454172bc4492dce7f709e2 *inst/shiny/ui.R
+4a19a9664dab892d7c0c0954aef7bb9e *man/timeline-package.Rd
+40f4e694fe79737ed326f29999f29637 *man/timeline.Rd
+2f87b42e6010c29599090a511bef83a6 *man/timelineShinyDemo.Rd
+caac5778f6b24dfdc0b69971f9bff6b3 *man/ww2.Rd
+116f3700eef3bbf474898af1197b19f8 *man/ww2.events.Rd
